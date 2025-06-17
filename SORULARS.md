@@ -1,5 +1,3 @@
-## 1. Kompozit Malzeme Nedir? (10 Soru)  
-_Dağıtım (soru sırası: 1: D, 2: B, 3: A, 4: E, 5: C, 6: B, 7: D, 8: A, 9: C, 10: E)_
 
 ### Soru 1.1:
 Kompozit malzeme nedir?  
@@ -144,9 +142,6 @@ E. Bileşenlerin kimyasal olarak karışmadığı halde ayrı kalması
 </details>
 
 ---
-
-## 2. Kompozit Malzemelerin Temel Özellikleri (10 Soru)  
-(Dağıtım: 1: B, 2: D, 3: E, 4: A, 5: C, 6: B, 7: E, 8: D, 9: A, 10: C)
 
 ### Soru 2.1:
 Kompozit malzemedeki bileşenler arasında hangi kimyasal etkileşim gerçekleşmez?  
@@ -299,9 +294,6 @@ E. Üretim maliyetlerinin düşüklüğü
 
 ---
 
-## 3. Kompozitlerin Uygulama Alanları (10 Soru)  
-(Dağıtım: 1: C, 2: A, 3: D, 4: B, 5: E, 6: C, 7: A, 8: D, 9: B, 10: E)
-
 ### Soru 3.1:
 Kompozitler en çok hangi sektörlerde kullanılır?  
 A. Sadece su arıtma tesisleri  
@@ -446,9 +438,6 @@ E. Farklı malzeme kombinasyonlarının uygulanabilmesi
 
 ---
 
-## 4. Kompozit İçeren Örnek Ürünler (10 Soru)  
-(Dağıtım: 1: D, 2: B, 3: E, 4: A, 5: C, 6: D, 7: B, 8: E, 9: A, 10: C)
-
 ### Soru 4.1:
 Otomotiv sektöründe en yaygın kullanılan kompozit ürün hangisidir?  
 A. Geleneksel çelik fren diski  
@@ -590,10 +579,6 @@ E. Tamamen standart alaşım ürünler
 </details>
 
 ---
-
-## 5. Kompozitler ve Mühendislik Faaliyetleri (10 Soru)  
-(Dağıtım: 1: A, 2: E, 3: C, 4: B, 5: D, 6: A, 7: E, 8: C, 9: B, 10: D)
-
 ### Soru 5.1:
 Kompozit malzeme üzerine çalışacak mühendislerin hangi konuda derin bilgi sahibi olmaları gerekir?  
 A. Kompozit malzeme mekaniği  
@@ -735,10 +720,6 @@ E. Görsel kalite
 </details>
 
 ---
-
-## 6. Niçin Kompozit Malzeme? (10 Soru)  
-(Dağıtım: 1: A, 2: B, 3: E, 4: D, 5: C, 6: A, 7: E, 8: B, 9: D, 10: C)
-
 ### Soru 6.1:
 Kompozit malzemenin temel avantajlarından biri nedir?  
 A. Yüksek özgül mukavemet (yük/yoğunluk)  
@@ -1022,10 +1003,6 @@ E. Yalnızca doğal malzemelerden üretilmeleri
 </details>
 
 ---
-
-## 8. Kompozitlerin Dezavantajları (10 Soru)  
-*Dağıtım (Konu 8): Soru 1: A, 2: C, 3: B, 4: E, 5: D, 6: A, 7: C, 8: B, 9: D, 10: E*
-
 ### Soru 8.1:
 Kompozit üretiminde kalite standartlarını sağlamak neden zordur?  
 A. Üretim sürecinin operatör becerisine bağlı olması  
@@ -1167,9 +1144,6 @@ E. Uygun olmayan kalıp tasarımı
 </details>
 
 ---
-
-## 9. Matris Malzemeleri (10 Soru)  
-*Dağıtım (Konu 9): Soru 1: C, 2: E, 3: A, 4: D, 5: B, 6: C, 7: E, 8: A, 9: B, 10: D*
 
 ### Soru 9.1:
 Matris malzemenin kompozitteki temel işlevi nedir?  
@@ -1313,9 +1287,6 @@ E. Sadece dekoratif olması
 
 ---
 
-## 10. Elyaf (Fiber) Malzemeleri (10 Soru)  
-*Dağıtım (Konu 10): Soru 1: D, 2: A, 3: E, 4: C, 5: B, 6: D, 7: E, 8: A, 9: B, 10: C*
-
 ### Soru 10.1:
 Elyaf malzemelerin kompozitteki temel işlevi nedir?  
 A. Sadece termal iletkenlik sağlamak  
@@ -1458,9 +1429,6 @@ E. Yalnızca kimyasal reaksiyonda bulunmaları
 
 ---
 
-## 11. Kompozitlerde İmalat Teknolojileri (10 Soru)  
-*Dağıtım (Konu 11): Soru 1: E, 2: A, 3: B, 4: C, 5: D, 6: E, 7: A, 8: B, 9: C, 10: D*
-
 ### Soru 11.1:
 Kompozit imalatında, elyafların matris ile tam ve homojen ıslanması neden kritik öneme sahiptir?  
 A. Elyaf ile matris arasında kuvvetli ara yüz bağlantısı oluşturmak  
@@ -1602,9 +1570,6 @@ E. Kalıp tasarımının karmaşıklığı
 </details>
 
 ---
-
-## 11. Kompozitlerde İmalat Teknolojileri (10 Soru)  
-*Dağıtım (Konu 11): Soru 1: E, 2: A, 3: B, 4: C, 5: D, 6: E, 7: A, 8: B, 9: C, 10: D*
 
 ### Soru 11.1:
 Kompozit imalatında elyafların matris ile tam ıslanması neden kritik öneme sahiptir?  
